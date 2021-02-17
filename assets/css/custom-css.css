@@ -49,6 +49,15 @@ body {
   color: #272042;
 }
 
+.hero h1 span {
+  /* background: #fbe0dc;
+  border-radius: 100px;*/
+  /* height: 10px;
+  text-decoration: none;
+  border-bottom: 2px solid #2c82c9;
+  border-radius: 10px; */
+}
+
 .hero p {
   font-style: normal;
   font-weight: normal;
@@ -73,4 +82,61 @@ body {
 .hero .btn-primary:hover {
   background: #272042;
   color: #f7c531;
+}
+
+.watch-now {
+  margin-top: 90px;
+}
+
+.heading-text h6 {
+  font-weight: normal;
+  font-size: 20px;
+  text-align: center;
+  color: #8b8ba5;
+}
+
+.heading-text p {
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  color: #272042;
+}
+
+.watch-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.watch-list p {
+  margin-right: 55px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+  color: #272042;
+}
+
+.watch-list .active {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25px;
+  color: #f7c531;
+  border-bottom: 2px solid #f7c531;
+  padding-bottom: 15px;
+}
+
+.video-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.video-list .item {
+  margin-right: 15px;
+  margin-left: 15px;
+  width: 287px;
 }
