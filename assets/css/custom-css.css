@@ -109,7 +109,7 @@ body {
   justify-content: center;
 }
 
-.watch-list p {
+.watch-list a {
   margin-right: 55px;
   font-style: normal;
   font-weight: normal;
@@ -139,4 +139,74 @@ body {
   margin-right: 15px;
   margin-left: 15px;
   width: 287px;
+  align-items: center;
+}
+
+.wn-title {
+  margin-top: 14px;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+  color: #272042;
+}
+
+.wn-user {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #8b8ba5;
+  margin-top: 8px;
+}
+
+.stars {
+  margin-top: 12px;
+  justify-content: center;
+}
+
+.stars img {
+  width: 20px;
+  margin-right: 5px;
+}
+
+.testimonial {
+  margin-top: 70px;
+}
+
+.quote {
+  background-image: url("/assets/images/bg-testi.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.quote p {
+  /* position: absolute; */
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 50px;
+  text-align: center;
+  color: #272042;
+  width: 1007px;
+  word-wrap: break-word;
+  padding-left: 283px;
+}
+
+.user {
+  margin-top: 20px;
+  padding-left: 57px;
+}
+.user h6 {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 27px;
+  color: #272042;
+}
+
+.user p {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #8b8ba5;
 }
