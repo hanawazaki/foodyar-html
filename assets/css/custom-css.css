@@ -210,3 +210,27 @@ body {
   line-height: 20px;
   color: #8b8ba5;
 }
+
+.statistic {
+  margin-top: 100px;
+}
+
+.text-stat {
+  margin: 0 50px 0 50px;
+}
+
+.text-stat h3 {
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  color: #272042;
+}
+
+.text-stat p {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+  color: #8b8ba5;
+}
