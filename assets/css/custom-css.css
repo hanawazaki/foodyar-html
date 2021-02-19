@@ -258,3 +258,59 @@ body {
   line-height: 34px;
   color: #8b8ba5;
 }
+
+.app-promote {
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+
+.buttons {
+  margin-top: 50px;
+}
+
+.btn-store {
+  margin-right: 20px;
+}
+
+.footer-menu {
+  border-top: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
+}
+
+.footer-menu .container {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.title-footer {
+  margin-bottom: 20px;
+}
+
+.list-footer h6 {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 27px;
+  color: #272042;
+  padding-bottom: 20px;
+}
+
+.list-footer a {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #8b8ba5;
+  padding-bottom: 14px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: normal;
+  font-size: 16px;
+  text-align: center;
+  color: #8b8ba5;
+}
+
+footer p {
+  margin: auto;
+}
